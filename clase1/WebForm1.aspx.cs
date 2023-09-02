@@ -67,6 +67,11 @@ namespace clase1
                     lista_prov.Items.Add(new ListItem("prov 2", "p2"));
                     lista_prov.Items.Add(new ListItem("prov 3", "'3"));
                     break;
+                case "per":
+                    lista_prov.Items.Add(new ListItem("prov 4", "p4"));
+                    lista_prov.Items.Add(new ListItem("prov 5", "p5"));
+                    lista_prov.Items.Add(new ListItem("prov 6", "p6"));
+                    break;
             }
         }
     }
